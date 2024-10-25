@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="file:///C:/Users/Administrador/Pictures/Screenshots/Captura%20de%20tela%202024-10-25%20160441.png"  />
 </div>
 
 ###
@@ -12,20 +12,28 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GustavoSV1303.GustavoSV1303&left_color=black&right_color=blue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GustavoSV1303.GustavoSV1303&"  />
 </div>
 
 ###
 
-<h1 align="center">Olá, seja bem vindo ao meu perfil.</h1>
+<div align="center">
+  <a href="https://open.spotify.com/user/Gustavo Vitoria">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Gustavo%20Vitoria&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
-<h3 align="left">Sobre mim:</h3>
+<h1 align="center">👻Olá, seja bem vindo ao meu perfil.🎃</h1>
 
 ###
 
-<h3 align="center">Eu sou Gustavo Souza de Taboão da Serra -SP<br><br>-Estudante de Análise e Desenvolvimento de Sistemas.<br>Técnico de Eletrônica e Técnico de Manutenção no Departamento de Tecnologia.<br> - Busco estudar na área de programação que é a área que eu gosto.<br>- No meu tempo livre gosto de escutar música, ver filmes e séries, fazer um curso, treinar meu inglês, etc.<br>- Minha meta é aprender o máximo que eu consiga sobre as áreas que eu citei.</h3>
+<h3 align="left">👾Sobre mim:</h3>
+
+###
+
+<p align="left">✍️Eu sou Gustavo Souza de Taboão da Serra -SP<br><br>-Estudante de Análise e Desenvolvimento de Sistemas.<br>-Técnico de Eletrônica e Técnico de Manutenção no Departamento de Tecnologia.<br>- Busco estudar na área de programação que é a área que eu gosto.<br>- No meu tempo livre gosto de escutar música, ver filmes e séries, fazer um curso, treinar meu inglês, etc.<br>- Minha meta é aprender o máximo que eu consiga sobre as áreas que eu citei.</p>
 
 ###
 
@@ -36,25 +44,25 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
